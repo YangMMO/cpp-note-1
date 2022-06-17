@@ -1,10 +1,14 @@
 #include <iostream>
 using namespace std;
 
-/* helloworld */
+/* 关键字 */
+
 int main()
 {
-    cout << "Hello World!" << endl;
+
+    int int = 10; //错误，类型说明符的组合无效
+
     system("pause");
+
     return 0;
 }

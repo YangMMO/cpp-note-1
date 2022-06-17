@@ -1,10 +1,14 @@
 #include <iostream>
 using namespace std;
 
-/* helloworld */
+/* 变量 */
 int main()
 {
-    cout << "Hello World!" << endl;
+    int a = 10;
+
+    cout << "a = " << a << endl;
+
     system("pause");
+
     return 0;
 }
