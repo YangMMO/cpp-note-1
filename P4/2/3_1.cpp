@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/* switch语句 */
+/* for */
 int main() {
 
     system("chcp 65001");
