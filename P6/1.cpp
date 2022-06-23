@@ -2,18 +2,16 @@
 using namespace std;
 
 /* 函数的定义 */
-int main() {
+// 实现加法返回结果
+int add(int num1, int num2){
+    return num1 + num2;
+}
 
+
+int main() {
     system("chcp 65001");
 
-    // 
-    int num = 0;
-    cout << "请输入：" << endl;
-    cin >> num;
-
-    cout << "结果为：" << num << endl;
-    cout << num << endl;
-
+    
     system("pause");
     return 0;
 }
