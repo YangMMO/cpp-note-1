@@ -1,17 +1,20 @@
 #include <iostream>
 using namespace std;
 
-/* for */
+/* 嵌套循环 */
 int main() {
 
     system("chcp 65001");
 
-    // 输出0~9
+    // 打印*
     for (int i = 0; i < 10; i++)
     {
-        cout << i << endl;
+        for (int j = 0; j < 10; j++)
+        {
+            cout << "* ";
+        }
+        cout << endl;
     }
-    
 
     system("pause");
     return 0;
