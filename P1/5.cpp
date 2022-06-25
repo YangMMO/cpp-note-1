@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-    int int = 10; //错误，类型说明符的组合无效
+    //int int = 10; //错误，类型说明符的组合无效
 
     system("pause");
 

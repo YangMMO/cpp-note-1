@@ -1,0 +1,7 @@
+﻿  6.cpp
+E:\Code\c++\c++note\P6\swap.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  swap.cpp
+E:\Code\c++\c++note\P6\swap.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Code\c++\c++note\P6\swap.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  c++note.vcxproj -> E:\Code\c++\c++note\x64\Debug\c++note.exe
