@@ -46,6 +46,12 @@
     <Filter Include="源文件\P5\2">
       <UniqueIdentifier>{32b97367-25d6-40b6-b5cd-62facf0f01a7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\P7">
+      <UniqueIdentifier>{959298f4-d6fa-4f15-a591-53a96a52b40b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\P8">
+      <UniqueIdentifier>{4573673b-858a-49da-bbee-1ca3bf02cf25}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1\1.cpp">
@@ -206,6 +212,54 @@
     </ClCompile>
     <ClCompile Include="P6\3.cpp">
       <Filter>源文件\P6</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P7\1.cpp">
+      <Filter>源文件\P7</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P7\2.cpp">
+      <Filter>源文件\P7</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P7\3_1.cpp">
+      <Filter>源文件\P7</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P7\3_2.cpp">
+      <Filter>源文件\P7</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P7\4.cpp">
+      <Filter>源文件\P7</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P7\5.cpp">
+      <Filter>源文件\P7</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P7\6.cpp">
+      <Filter>源文件\P7</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P7\7.cpp">
+      <Filter>源文件\P7</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P8\1.cpp">
+      <Filter>源文件\P8</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P8\2.cpp">
+      <Filter>源文件\P8</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P8\3.cpp">
+      <Filter>源文件\P8</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P8\4.cpp">
+      <Filter>源文件\P8</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P8\5.cpp">
+      <Filter>源文件\P8</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P8\6.cpp">
+      <Filter>源文件\P8</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P8\7_1.cpp">
+      <Filter>源文件\P8</Filter>
+    </ClCompile>
+    <ClCompile Include="note-1\P8\7_2.cpp">
+      <Filter>源文件\P8</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
